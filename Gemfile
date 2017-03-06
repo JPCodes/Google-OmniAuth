@@ -7,7 +7,7 @@ gem 'omniauth-google-oauth2'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
-
+gem 'byebug'
 # Use SCSS for stylesheets
 gem 'sass-rails'
 
